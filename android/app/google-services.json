@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "584606404926",
+    "firebase_url": "https://supabz-default-rtdb.firebaseio.com",
+    "project_id": "supabz",
+    "storage_bucket": "supabz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584606404926:android:5e104273cf657d845bdc6f",
+        "android_client_info": {
+          "package_name": "sbs.hidev.swiftvend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584606404926-ue6h74eipac5gs3g4qk07vckoijn9clt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OeVDCStbwmGxswyoFjCRiddzPu2mMs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584606404926-ue6h74eipac5gs3g4qk07vckoijn9clt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584606404926-1mjvha7rfjg4o3gj82ir6nbp6rru6iu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "sbs.hidev.xdeveloper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
