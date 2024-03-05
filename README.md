@@ -1,4 +1,3 @@
-Certainly! Here is a template for a README file for your Flutter ecommerce app:
 
 ---
 
@@ -46,7 +45,7 @@ If you would like to contribute to the development of this app, please follow th
 - Submit a pull request for review
 
 ## License
-This project is licensed under the [license]. You are free to use and modify the code for your own purposes.
+This project is licensed under the [MIT]. You are free to use and modify the code for your own purposes.
 
 ---
 
