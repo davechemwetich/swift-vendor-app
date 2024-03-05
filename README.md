@@ -2,9 +2,6 @@
 ---
 
 # Ecommerce App
-
-![App Screenshot](https://telegra.ph/file/27df4629c3726e8856c92.jpg)
-
 ## Description
 This is a Flutter ecommerce app that allows users to browse, search, and purchase products online. The app provides a user-friendly interface for customers to view products, add them to their cart, and proceed to checkout.
 
