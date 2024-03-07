@@ -15,7 +15,7 @@ This is a Flutter ecommerce app that allows users to browse, search, and purchas
 - Secure payment options
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/ecommerce-app.git`
+1. Clone the repository: `https://github.com/davechemwetich/swift-vendor-app.git`
 2. Open the project in your preferred IDE
 3. Run `flutter pub get` to install dependencies
 4. Connect a device or use an emulator
